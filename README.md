@@ -100,6 +100,7 @@ Rechargement de la page actuelle avec le bouton Recharger.
 <img src="captures/Capture_refresh_1.png" alt="Pagination and Reload" width="600">
 <img src="captures/Capture_refresh_2.png" alt="Pagination and Reload" width="600">
 </p>
+<br>
 
 <p align="center">
 Pagination avec les boutons Précédent et Suivant.
