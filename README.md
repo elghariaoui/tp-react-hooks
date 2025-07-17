@@ -98,6 +98,8 @@ Gestion de la pagination avec les fonctions nextPage et previousPage.
 <p align="center">
 Rechargement de la page actuelle avec le bouton Recharger.
 <img src="captures/Capture_refresh_1.png" alt="Pagination and Reload" width="600">
+<br>
+<br>
 <img src="captures/Capture_refresh_2.png" alt="Pagination and Reload" width="600">
 </p>
 <br>
